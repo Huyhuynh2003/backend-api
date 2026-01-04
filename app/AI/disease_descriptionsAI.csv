@@ -1,0 +1,132 @@
+Disease,Description
+Tiểu đường,"Là một bệnh mãn tính liên quan đến lượng đường trong máu cao, gây ra bởi sự thiếu hụt insulin hoặc khả năng sử dụng insulin kém."
+Tăng huyết áp,"Là tình trạng huyết áp cao trong động mạch, có thể dẫn đến các bệnh tim mạch, đột quỵ và tổn thương các cơ quan."
+Hen suyễn,Là một bệnh về phổi khiến người bệnh gặp khó khăn trong việc thở do viêm và thu hẹp các đường thở.
+Ung thư,Là một nhóm bệnh mà các tế bào trong cơ thể phát triển một cách không kiểm soát được.
+Cảm cúm,"Là một bệnh nhiễm trùng do virus gây ra, với các triệu chứng như sốt, ho, đau cơ và mệt mỏi."
+Viêm phổi,"Là tình trạng viêm nhiễm ở phổi gây khó thở, ho, sốt và đau ngực."
+Bệnh lao,"Là một bệnh nhiễm trùng nghiêm trọng thường ảnh hưởng đến phổi, gây ho lâu dài và khó thở."
+Sốt rét,"Là bệnh do ký sinh trùng gây ra, thường gặp ở khu vực nhiệt đới, gây sốt, lạnh run và mệt mỏi."
+HIV/AIDS,"Là bệnh suy giảm miễn dịch do virus HIV gây ra, khiến hệ thống miễn dịch bị yếu đi và dễ dàng bị nhiễm các bệnh khác."
+Đột quỵ,"Là một tình trạng cấp tính xảy ra khi một phần của não không nhận đủ máu, dẫn đến tổn thương mô não."
+Động kinh,Là bệnh thần kinh mãn tính gây ra các cơn co giật bất thường do hoạt động điện bất thường trong não.
+Bệnh Parkinson,"Là một bệnh thần kinh gây ra các triệu chứng như run tay, cứng khớp và khó khăn khi di chuyển."
+Bệnh Alzheimer,"Là một dạng mất trí nhớ do thoái hóa tế bào thần kinh, ảnh hưởng đến trí nhớ, tư duy và hành vi."
+Xơ nang,"Là một bệnh di truyền làm tắc nghẽn các tuyến dịch nhầy, ảnh hưởng đến các cơ quan như phổi và gan."
+Bệnh thận mãn tính,"Là tình trạng suy giảm chức năng thận kéo dài, có thể dẫn đến suy thận."
+Bệnh gan,"Là các bệnh ảnh hưởng đến gan, bao gồm viêm gan, xơ gan, và các loại ung thư gan."
+Nhồi máu cơ tim,"Là tình trạng tắc nghẽn dòng máu đến tim, gây tổn thương hoặc chết tế bào tim."
+Suy tim,Là tình trạng tim không thể bơm đủ máu để đáp ứng nhu cầu cơ thể.
+Viêm khớp,"Là tình trạng viêm trong khớp, gây đau, sưng, và cứng khớp."
+Viêm khớp dạng thấp,"Là một dạng bệnh viêm khớp tự miễn, khiến các khớp bị tổn thương và gây đau."
+Xơ vữa động mạch,"Là tình trạng các mạch máu bị tắc nghẽn bởi mảng bám, gây ra các vấn đề về tim mạch và đột quỵ."
+Bệnh Crohn,"Là một bệnh viêm ruột mãn tính, ảnh hưởng đến hệ tiêu hóa và có thể gây tiêu chảy và đau bụng."
+Viêm loét đại tràng,"Là bệnh viêm nhiễm kéo dài trong đại tràng, gây tiêu chảy, máu trong phân và đau bụng."
+Viêm gan,"Là tình trạng viêm của gan, có thể gây ra bởi vi khuẩn, virus, hoặc chất độc hại."
+Tả,"Là một bệnh nhiễm trùng do vi khuẩn Vibrio cholerae, gây tiêu chảy cấp và mất nước."
+Sốt thương hàn,"Là một bệnh do vi khuẩn Salmonella typhi gây ra, với các triệu chứng như sốt cao, mệt mỏi, và tiêu chảy."
+Bệnh phong,"Là bệnh truyền nhiễm do vi khuẩn Mycobacterium leprae, ảnh hưởng đến da, thần kinh và niêm mạc."
+Sốt xuất huyết,"Là bệnh do virus Dengue gây ra, có thể gây sốt cao, phát ban, và đau nhức cơ thể."
+Virus Zika,"Là bệnh do virus Zika gây ra, lây truyền qua muỗi, có thể gây dị tật bẩm sinh ở trẻ em."
+COVID-19,"Là bệnh nhiễm trùng do virus SARS-CoV-2 gây ra, với triệu chứng từ nhẹ đến nặng, bao gồm sốt, ho, và khó thở."
+Sởi,"Là một bệnh truyền nhiễm gây phát ban đỏ, sốt cao, và ho, lây lan qua đường hô hấp."
+Mumps,"Là bệnh viêm tuyến mang tai, gây sưng mặt và đau, do virus mumps gây ra."
+Rubella,"Là bệnh sởi Đức, có triệu chứng tương tự sởi, nhưng nhẹ hơn và có thể gây dị tật bẩm sinh nếu nhiễm trong thai kỳ."
+Thủy đậu,"Là bệnh do virus varicella-zoster gây ra, gây phát ban đỏ và ngứa."
+Zona,"Là một dạng tái phát của thủy đậu, gây đau và phát ban."
+Uốn ván,"Là bệnh nhiễm trùng do vi khuẩn Clostridium tetani gây ra, dẫn đến co thắt cơ và có thể tử vong."
+Dại,"Là bệnh do virus dại gây ra, truyền qua vết cắn của động vật bị nhiễm, gây viêm não và có thể tử vong."
+Bệnh bạch cầu,"Là một loại ung thư máu, gây ra sự tăng trưởng bất thường của các tế bào máu trắng."
+Lymphoma,"Là ung thư của hệ bạch huyết, ảnh hưởng đến các hạch bạch huyết và các cơ quan khác trong cơ thể."
+U ác tính,"Là các loại ung thư có khả năng phát triển nhanh và lan rộng, ảnh hưởng đến nhiều cơ quan trong cơ thể."
+Ung thư vú,"Là ung thư bắt đầu từ các tế bào trong vú, phổ biến ở phụ nữ."
+Ung thư tuyến tiền liệt,Là ung thư phát triển trong tuyến tiền liệt của nam giới.
+Ung thư phổi,"Là ung thư bắt đầu từ phổi, có thể do hút thuốc lá hoặc yếu tố môi trường khác."
+Ung thư đại trực tràng,"Là ung thư ảnh hưởng đến ruột già hoặc trực tràng, gây đau bụng, thay đổi thói quen đi tiêu."
+Ung thư buồng trứng,"Là ung thư phát triển trong buồng trứng, gây đau bụng, thay đổi chu kỳ kinh nguyệt."
+Ung thư tụy,"Là ung thư phát triển trong tụy, gây ra các triệu chứng như giảm cân, đau bụng."
+Ung thư bàng quang,"Là ung thư ảnh hưởng đến bàng quang, gây tiểu máu, đau khi đi tiểu."
+Ung thư tuyến giáp,"Là ung thư ảnh hưởng đến tuyến giáp, có thể gây sưng cổ và thay đổi giọng nói."
+Ung thư tinh hoàn,"Là ung thư ảnh hưởng đến tinh hoàn, gây đau hoặc sưng ở vùng bìu."
+Lạc nội mạc tử cung,"Là tình trạng mô nội mạc tử cung phát triển bên ngoài tử cung, gây đau bụng, vô sinh."
+Hội chứng buồng trứng đa nang (PCOS),"Là một tình trạng nội tiết, gây mất cân bằng hormone và có thể ảnh hưởng đến chu kỳ kinh nguyệt và khả năng sinh sản."
+Suy giáp,"Là tình trạng tuyến giáp không sản xuất đủ hormone, gây mệt mỏi, tăng cân, và trầm cảm."
+Cường giáp,"Là tình trạng tuyến giáp sản xuất quá nhiều hormone, gây giảm cân, lo âu, và tim đập nhanh."
+Bệnh phổi tắc nghẽn mãn tính (COPD),"Là bệnh phổi mãn tính, bao gồm viêm phế quản mạn tính và khí phế thũng, gây khó thở."
+Ngưng thở khi ngủ,"Là tình trạng tạm thời ngừng thở trong khi ngủ, dẫn đến mệt mỏi và giảm chất lượng giấc ngủ."
+Thiếu máu,"Là tình trạng thiếu hồng cầu trong máu, dẫn đến mệt mỏi và thiếu năng lượng."
+Thiếu sắt,"Là tình trạng cơ thể không có đủ sắt, gây ra thiếu máu và mệt mỏi."
+Thiếu máu hồng cầu hình liềm,"Là bệnh di truyền, trong đó các hồng cầu có hình dạng bất thường và dễ bị vỡ, gây tắc nghẽn mạch máu."
+Bệnh máu khó đông,"Là một nhóm bệnh khiến máu không thể đông lại đúng cách, dẫn đến chảy máu kéo dài."
+Viêm bàng quang,"Là tình trạng viêm nhiễm ở bàng quang, gây đau và tiểu thường xuyên."
+Viêm dạ dày,"Là tình trạng viêm niêm mạc dạ dày, gây đau bụng, buồn nôn, và khó tiêu."
+Loét dạ dày tá tràng,"Là vết loét trên niêm mạc dạ dày hoặc tá tràng, gây đau và khó chịu."
+Sỏi mật,"Là sự hình thành các viên đá trong túi mật, gây đau bụng và khó tiêu."
+Trào ngược dạ dày thực quản,"Là tình trạng axit dạ dày trào ngược vào thực quản, gây cảm giác nóng rát và khó nuốt."
+Hội chứng ruột kích thích (IBS),"Là một rối loạn tiêu hóa gây đau bụng, đầy hơi, tiêu chảy hoặc táo bón."
+Gout,"Là bệnh viêm khớp do sự tích tụ của axit uric trong cơ thể, gây đau đột ngột ở các khớp."
+Psoriasis,"Là một bệnh tự miễn làm tăng quá trình phát triển tế bào da, gây ra các mảng da dày, đỏ và bong tróc."
+Eczema,"Là bệnh da dị ứng, gây ngứa, đỏ và viêm da."
+Mụn,"Là tình trạng tắc nghẽn lỗ chân lông, gây ra các nốt mụn hoặc mụn trứng cá trên da."
+Chấy,"Là ký sinh trùng nhỏ sống trên da đầu, gây ngứa và khó chịu."
+Nấm da,"Là nhiễm trùng da do nấm, gây mẩn đỏ, ngứa và bong tróc."
+Chân vận động viên,"Là một dạng nhiễm nấm trên da chân, thường gây ngứa và bong tróc da."
+Zona,"Là một dạng tái phát của thủy đậu, gây đau và phát ban."
+Viêm màng não,"Là tình trạng viêm màng bao quanh não và tủy sống, gây sốt, đau đầu và cứng cổ."
+Viêm não,"Là tình trạng viêm não do nhiễm trùng, gây sốt cao, đau đầu, và có thể dẫn đến hôn mê."
+Uốn ván,"Là bệnh nhiễm trùng do vi khuẩn Clostridium tetani gây ra, dẫn đến co thắt cơ và có thể tử vong."
+Bệnh botulism,"Là bệnh do vi khuẩn Clostridium botulinum gây ra, có thể dẫn đến ngừng thở và tê liệt cơ."
+Ngộ độc thực phẩm,"Là bệnh gây ra bởi việc ăn thực phẩm nhiễm khuẩn hoặc hóa chất, gây tiêu chảy, nôn mửa."
+Tiêu chảy,"Là tình trạng đi tiêu nhiều lần trong ngày với phân lỏng, có thể do nhiễm trùng hoặc rối loạn tiêu hóa."
+Táo bón,"Là tình trạng khó khăn trong việc đi tiêu, phân khô và cứng."
+Viêm ruột thừa,"Là tình trạng viêm của ruột thừa, gây đau bụng, sốt và nôn mửa."
+Thoát vị,Là tình trạng một phần của cơ quan nội tạng bị đẩy qua một phần yếu của thành bụng.
+Tiền sản giật,"Là một biến chứng thai kỳ, gây huyết áp cao và tổn thương các cơ quan."
+Sản giật,"Là tình trạng co giật nặng trong thai kỳ, là biến chứng của tiền sản giật."
+Sẩy thai,Là sự mất thai trong giai đoạn sớm của thai kỳ.
+Vô sinh,Là tình trạng không thể có con mặc dù quan hệ tình dục không bảo vệ trong một thời gian dài.
+Thai ngoài tử cung,"Là tình trạng thai nhi phát triển ngoài tử cung, thường là trong ống dẫn trứng."
+Tiểu đường thai kỳ,"Là tình trạng tiểu đường phát triển trong thai kỳ, thường tự hết sau khi sinh."
+Ung thư nội mạc tử cung,"Là ung thư phát triển trong lớp nội mạc tử cung, gây chảy máu bất thường."
+Chlamydia,Là bệnh lây qua đường tình dục do vi khuẩn Chlamydia trachomatis gây ra.
+Gonorrhea,"Là bệnh lây qua đường tình dục do vi khuẩn Neisseria gonorrhoeae gây ra, gây viêm ở cơ quan sinh dục."
+Syphilis,"Là bệnh lây qua đường tình dục do vi khuẩn Treponema pallidum gây ra, có thể gây ra các vết loét và phát ban."
+Herpes,"Là bệnh lây qua đường tình dục do virus herpes simplex gây ra, gây các vết loét đau trên da và niêm mạc."
+Virus papilloma người (HPV),"Là virus gây mụn cóc sinh dục, có thể dẫn đến ung thư cổ tử cung."
+HIV,"Là virus gây suy giảm miễn dịch ở người, làm suy yếu hệ thống miễn dịch."
+Hội chứng mệt mỏi mãn tính,Là một tình trạng gây mệt mỏi kéo dài mà không thể giải thích bằng các nguyên nhân y tế khác.
+Rối loạn căng thẳng sau chấn thương (PTSD),Là tình trạng tâm lý xảy ra sau khi trải qua những sự kiện căng thẳng hoặc chấn thương.
+Schizophrenia,"Là bệnh tâm thần gây ra những thay đổi trong cách nghĩ, cảm giác và hành vi."
+Rối loạn lưỡng cực,Là tình trạng tâm lý với các giai đoạn thay đổi mạnh mẽ giữa trầm cảm và hưng phấn.
+Trầm cảm,"Là trạng thái tâm lý với cảm giác buồn bã kéo dài, thiếu năng lượng và mất hứng thú."
+Lo âu,"Là trạng thái lo sợ hoặc căng thẳng kéo dài, có thể ảnh hưởng đến sức khỏe và cuộc sống."
+Rối loạn hoảng sợ,Là tình trạng xuất hiện các cơn hoảng sợ đột ngột và mạnh mẽ mà không có lý do rõ ràng.
+Rối loạn ám ảnh cưỡng chế (OCD),Là tình trạng có những suy nghĩ và hành vi lặp đi lặp lại mà người bệnh không kiểm soát được.
+Rối loạn phổ tự kỷ (ASD),"Là một nhóm các rối loạn phát triển ảnh hưởng đến giao tiếp, hành vi và sự tương tác xã hội."
+Sa sút trí tuệ,"Là tình trạng suy giảm trí nhớ và khả năng tư duy, có thể do nhiều nguyên nhân như Alzheimer."
+Bệnh Parkinson,"Là một bệnh thần kinh gây ra các triệu chứng như run tay, cứng khớp và khó khăn khi di chuyển."
+Chán ăn,Là rối loạn ăn uống với việc tránh ăn hoặc kiểm soát quá mức lượng thức ăn.
+Bulimia,Là rối loạn ăn uống với các giai đoạn ăn uống quá mức và sau đó là nôn hoặc dùng thuốc tẩy.
+Rối loạn hình thể cơ thể,"Là sự lo lắng không thực tế về ngoại hình và cơ thể, dẫn đến hành vi thay đổi liên tục."
+Bệnh cơ xơ hóa,Là bệnh tự miễn làm cho mô cơ bị xơ hóa và có thể dẫn đến suy giảm khả năng di chuyển.
+Bệnh Myasthenia,Là rối loạn neuromuscular gây yếu cơ và mệt mỏi.
+Hội chứng Guillain-Barré,"Là một bệnh tự miễn gây ra sự tê liệt cơ thể, bắt đầu từ tay và chân."
+Xơ cứng bì,Là một bệnh tự miễn gây dày và xơ hóa các mô da và các cơ quan nội tạng.
+Lupus,"Là một bệnh tự miễn ảnh hưởng đến các cơ quan như da, khớp và thận."
+Sarcoidosis,"Là bệnh viêm mạn tính có thể ảnh hưởng đến các cơ quan như phổi, mắt và da."
+Sốt thấp khớp,No description available.
+Lạc nội mạc tử cung,"Là tình trạng mô nội mạc tử cung phát triển bên ngoài tử cung, gây đau bụng, vô sinh."
+Bệnh Celiac,No description available.
+Viêm tụy mạn tính,No description available.
+Xơ gan,No description available.
+Loãng xương,No description available.
+Thoái hóa khớp,No description available.
+Hội chứng ruột kích thích,No description available.
+Ung thư cổ tử cung,No description available.
+Viêm da cơ địa,No description available.
+Lupus ban đỏ hệ thống,No description available.
+Hội chứng chân không yên,No description available.
+Bệnh Huntington,No description available.
+Bệnh Wilson,No description available.
+Bệnh Lyme,No description available.
+Bệnh Behçet,No description available.

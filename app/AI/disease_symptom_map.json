@@ -1,0 +1,1206 @@
+{
+  "Hội chứng mệt mỏi mãn tính": [
+    "đau đầu",
+    "khó ngủ",
+    "đau khớp",
+    "trí nhớ kém",
+    "cảm giác mệt mỏi kéo dài",
+    "cảm giác không phục hồi sau giấc ngủ"
+  ],
+  "Viêm màng não": [
+    "lú lẫn",
+    "đau cơ",
+    "sốt cao",
+    "sợ ánh sáng",
+    "hôn mê",
+    "đau đầu dữ dội"
+  ],
+  "Bệnh botulism": [
+    "yếu cơ",
+    "mệt mỏi",
+    "nôn mửa",
+    "sụp mí mắt",
+    "đau cơ",
+    "mắt nhìn mờ",
+    "khô miệng",
+    "buồn nôn",
+    "khó nuốt",
+    "khó thở"
+  ],
+  "Schizophrenia": [
+    "lú lẫn",
+    "lo âu",
+    "ảo giác",
+    "trầm cảm",
+    "thay đổi hành vi",
+    "khó tập trung"
+  ],
+  "Zona": [
+    "sốt",
+    "mệt mỏi",
+    "phỏng rộp",
+    "đau nhức",
+    "nhạy cảm với ánh sáng",
+    "ngứa",
+    "buồn nôn",
+    "phát ban đau",
+    "đau đầu"
+  ],
+  "Hội chứng ruột kích thích": [
+    "sụt cân",
+    "đau quặn thắt",
+    "tiêu chảy",
+    "mệt mỏi",
+    "đau bụng",
+    "táo bón",
+    "nước tiểu sẫm màu",
+    "buồn nôn",
+    "đau khi đi vệ sinh"
+  ],
+  "Dại": [
+    "bị liệt",
+    "mất ngủ",
+    "co giật",
+    "kích động",
+    "khó nuốt",
+    "đau đầu"
+  ],
+  "Herpes": [
+    "đau khi tiểu",
+    "sốt",
+    "mệt mỏi",
+    "ngứa",
+    "buồn nôn"
+  ],
+  "Suy giáp": [
+    "phù mặt",
+    "da khô",
+    "chậm nhịp tim",
+    "mệt mỏi",
+    "trầm cảm",
+    "rụng tóc",
+    "kinh nguyệt không đều",
+    "giọng khàn",
+    "khó chịu với lạnh",
+    "tăng cân"
+  ],
+  "Động kinh": [
+    "chuyển động không kiểm soát",
+    "mất ý thức",
+    "mất trí nhớ tạm thời",
+    "co giật",
+    "cắn lưỡi",
+    "mơ hồ",
+    "chuột rút cơ",
+    "mơ hồ sau cơn co giật",
+    "run",
+    "cảm giác trước khi co giật"
+  ],
+  "U ác tính": [
+    "sốt",
+    "ho kéo dài",
+    "mệt mỏi",
+    "đau ngực",
+    "khối u",
+    "giảm cân không rõ lý do",
+    "đau",
+    "khó nuốt",
+    "khó thở",
+    "thay đổi màu sắc của da hoặc nốt mụn"
+  ],
+  "Thai ngoài tử cung": [
+    "đau bụng dữ dội",
+    "chậm kinh",
+    "ra máu âm đạo",
+    "chóng mặt",
+    "thở dốc",
+    "cảm giác nặng bụng",
+    "buồn nôn",
+    "đau khi ho",
+    "đau khi đi vệ sinh"
+  ],
+  "Vô sinh": [
+    "khó thụ thai",
+    "rối loạn kinh nguyệt",
+    "sút cân",
+    "đau khi quan hệ",
+    "rối loạn nội tiết",
+    "tăng cân"
+  ],
+  "HIV": [
+    "sút cân",
+    "mệt mỏi",
+    "chán ăn",
+    "viêm hạch bạch huyết",
+    "khó thở"
+  ],
+  "Hen suyễn": [
+    "khó thở khi vận động",
+    "thở dài",
+    "ho",
+    "mệt mỏi",
+    "khò khè",
+    "dịch nhầy quá nhiều",
+    "đau ngực",
+    "thở nhanh",
+    "khó thở"
+  ],
+  "Ung thư đại trực tràng": [
+    "thay đổi thói quen đi tiêu",
+    "màu phân thay đổi",
+    "mệt mỏi",
+    "đau bụng",
+    "khó tiêu",
+    "đau khi đi tiêu",
+    "sút cân không rõ lý do"
+  ],
+  "Lạc nội mạc tử cung": [
+    "chảy máu giữa kỳ kinh",
+    "mệt mỏi",
+    "đau khi quan hệ",
+    "đau bụng",
+    "tiểu buốt"
+  ],
+  "Sa sút trí tuệ": [
+    "khó nhớ tên",
+    "cảm giác bị mất kiểm soát",
+    "cảm giác lạc lõng",
+    "trầm cảm",
+    "lúng túng trong giao tiếp",
+    "thay đổi tính cách"
+  ],
+  "Viêm dạ dày": [
+    "đau thượng vị",
+    "tiêu chảy",
+    "chán ăn",
+    "đầy hơi",
+    "nôn mửa",
+    "đau khi ăn"
+  ],
+  "Hội chứng buồng trứng đa nang (PCOS)": [
+    "khó thụ thai",
+    "da dầu",
+    "mụn trứng cá",
+    "rối loạn tâm lý",
+    "tăng cân"
+  ],
+  "Syphilis": [
+    "sốt",
+    "rối loạn tiêu hóa",
+    "mệt mỏi",
+    "đau cơ",
+    "phát ban da",
+    "khó nuốt",
+    "vết loét không đau",
+    "viêm hạch",
+    "đau đầu"
+  ],
+  "Ngưng thở khi ngủ": [
+    "buồn ngủ ban ngày",
+    "ngáy to",
+    "khó thở khi ngủ",
+    "thở dốc khi ngủ",
+    "tiếng thở rít khi ngủ",
+    "khô miệng khi thức dậy",
+    "khó tập trung",
+    "đau đầu"
+  ],
+  "Tăng huyết áp": [
+    "chảy máu cam",
+    "mệt mỏi",
+    "nhịp tim không đều",
+    "vấn đề về thị lực",
+    "đau ngực",
+    "khó thở",
+    "đau đầu"
+  ],
+  "Bệnh phổi tắc nghẽn mãn tính (COPD)": [
+    "sút cân",
+    "ho kéo dài",
+    "mệt mỏi",
+    "khó thở khi gắng sức",
+    "khò khè",
+    "đau ngực",
+    "tiếng thở có âm thanh",
+    "ho có đờm",
+    "thở nhanh",
+    "khó thở"
+  ],
+  "Đột quỵ": [
+    "khó đi lại",
+    "nói ngọng",
+    "mơ hồ",
+    "mất phối hợp",
+    "khó nuốt",
+    "đau đầu dữ dội"
+  ],
+  "Hội chứng Guillain-Barré": [
+    "yếu cơ",
+    "mất khả năng vận động",
+    "sốt",
+    "tê tay chân",
+    "giảm phản xạ",
+    "đau cơ",
+    "mất cảm giác ở tay và chân",
+    "đau lưng",
+    "khó thở",
+    "cảm giác kim châm trên da"
+  ],
+  "Cảm cúm": [
+    "nôn",
+    "rùng mình",
+    "ho",
+    "mệt mỏi",
+    "đau cơ",
+    "sổ mũi",
+    "đau đầu"
+  ],
+  "Tiểu đường thai kỳ": [
+    "nhìn mờ",
+    "sút cân",
+    "mệt mỏi",
+    "buồn nôn",
+    "cảm giác tê ở tay chân",
+    "khát nước nhiều",
+    "khó thở"
+  ],
+  "Viêm khớp": [
+    "đau khớp",
+    "mệt mỏi",
+    "nhiệt độ khớp",
+    "giảm phạm vi vận động",
+    "yếu",
+    "cứng khớp"
+  ],
+  "Bệnh bạch cầu": [
+    "sốt",
+    "hạch bạch huyết sưng",
+    "mệt mỏi",
+    "đau bụng",
+    "giảm cân không rõ lý do"
+  ],
+  "Sốt xuất huyết": [
+    "sốt",
+    "đau khớp",
+    "nôn",
+    "mệt mỏi",
+    "đau cơ",
+    "buồn nôn"
+  ],
+  "Lupus": [
+    "viêm phổi",
+    "sốt",
+    "đau khớp",
+    "sút cân",
+    "mệt mỏi",
+    "chán ăn",
+    "đau ngực",
+    "mất tóc",
+    "phát ban mặt"
+  ],
+  "Ung thư cổ tử cung": [
+    "tiểu đau",
+    "mệt mỏi",
+    "đau khi quan hệ",
+    "đau vùng chậu",
+    "đau lưng",
+    "chảy máu âm đạo bất thường"
+  ],
+  "Sốt thấp khớp": [
+    "sốt",
+    "đau khớp",
+    "chóng mặt",
+    "viêm tim",
+    "khó thở"
+  ],
+  "Bệnh máu khó đông": [
+    "cảm giác nặng nề ở tay chân",
+    "đau khớp",
+    "mệt mỏi",
+    "đau bụng",
+    "chảy máu răng",
+    "sưng khớp",
+    "xuất huyết trong cơ",
+    "chảy máu mũi",
+    "chảy máu bất thường"
+  ],
+  "Chán ăn": [
+    "mất tự tin",
+    "khó ngủ",
+    "mệt mỏi",
+    "chóng mặt",
+    "suy nhược cơ thể",
+    "giảm cân nhanh",
+    "cảm giác no ngay cả khi không ăn"
+  ],
+  "Trầm cảm": [
+    "mệt mỏi",
+    "cảm giác vô vọng",
+    "giảm khả năng tập trung",
+    "cảm giác có lỗi",
+    "nghĩ đến cái chết",
+    "không có hứng thú với các hoạt động"
+  ],
+  "Ung thư phổi": [
+    "ho ra máu",
+    "ho kéo dài",
+    "mệt mỏi",
+    "khò khè",
+    "chán ăn",
+    "đau ngực",
+    "giảm cân",
+    "ho có đờm",
+    "khó thở"
+  ],
+  "Bệnh Huntington": [
+    "yếu cơ",
+    "mất thăng bằng",
+    "cử động không kiểm soát",
+    "chóng mặt",
+    "mất tập trung",
+    "trầm cảm",
+    "giảm cân",
+    "khó nói",
+    "thay đổi hành vi",
+    "trí nhớ giảm sút"
+  ],
+  "Gout": [
+    "cảm giác nóng ở khớp",
+    "mệt mỏi",
+    "đau khớp đột ngột",
+    "tiểu gắt",
+    "sưng khớp"
+  ],
+  "Viêm da cơ địa": [
+    "da dày hơn",
+    "da bị viêm",
+    "da khô",
+    "ngứa dai dẳng",
+    "nứt nẻ da",
+    "ngứa",
+    "phát ban đỏ",
+    "da sưng",
+    "da có mụn nước",
+    "đau rát"
+  ],
+  "Rối loạn hoảng sợ": [
+    "cảm giác choáng váng",
+    "cảm giác tê liệt",
+    "mồ hôi vã ra",
+    "mệt mỏi",
+    "run rẩy",
+    "đau ngực",
+    "đột ngột cảm giác sợ hãi"
+  ],
+  "Bệnh Myasthenia": [
+    "yếu cơ",
+    "khó ngủ",
+    "yếu khi mệt mỏi",
+    "mệt mỏi",
+    "khó thở khi ngủ",
+    "đầy bụng",
+    "đau cơ",
+    "khó nuốt",
+    "khó thở",
+    "yếu cơ mặt"
+  ],
+  "Ung thư tinh hoàn": [
+    "khối u ở tinh hoàn",
+    "sút cân",
+    "mệt mỏi",
+    "đau khi quan hệ",
+    "đau hoặc cảm giác nặng nề ở tinh hoàn",
+    "thay đổi hình dáng tinh hoàn",
+    "khó thở"
+  ],
+  "Uốn ván": [
+    "khó mở miệng",
+    "đau đầu",
+    "co giật",
+    "cứng cơ",
+    "hay cáu gắt",
+    "đau họng",
+    "khó nuốt",
+    "chuột rút hàm"
+  ],
+  "Loãng xương": [
+    "yếu cơ",
+    "đau cổ",
+    "khó đi lại",
+    "mỏi cơ",
+    "đau lưng",
+    "dáng cong",
+    "giảm chiều cao",
+    "gãy xương dễ dàng",
+    "cứng khớp",
+    "chuột rút"
+  ],
+  "Tả": [
+    "miệng khô",
+    "sốt",
+    "mất nước",
+    "tiêu chảy có nước",
+    "nôn",
+    "mệt mỏi",
+    "mắt trũng",
+    "huyết áp thấp",
+    "nhịp tim nhanh"
+  ],
+  "Rối loạn phổ tự kỷ (ASD)": [
+    "không hiểu cảm xúc người khác",
+    "thiếu khả năng diễn đạt cảm xúc",
+    "thiếu sự quan tâm đến trò chơi nhóm",
+    "vấn đề với tương tác xã hội",
+    "khó duy trì các mối quan hệ"
+  ],
+  "Hội chứng ruột kích thích (IBS)": [
+    "sưng bụng",
+    "sút cân",
+    "tiêu chảy",
+    "đau bụng",
+    "chán ăn",
+    "đau khi đi tiêu",
+    "khó tiêu",
+    "đầy hơi",
+    "táo bón"
+  ],
+  "Chấy": [
+    "sưng đỏ da đầu",
+    "cảm giác ngứa khi chải tóc",
+    "gàu",
+    "sử dụng lược chấy",
+    "tóc rụng",
+    "rối loạn tóc",
+    "lây lan sang người khác",
+    "cảm giác châm chích",
+    "ngứa da đầu",
+    "viêm da đầu"
+  ],
+  "Bệnh Wilson": [
+    "rối loạn vận động",
+    "mất thăng bằng",
+    "mệt mỏi",
+    "run tay",
+    "vàng da",
+    "cứng cơ",
+    "giảm cân",
+    "vòng Kayser-Fleischer",
+    "khó nuốt"
+  ],
+  "Eczema": [
+    "vảy da",
+    "da bị nứt nẻ",
+    "khô da",
+    "khó chịu",
+    "dễ bị kích ứng",
+    "ngứa da"
+  ],
+  "COVID-19": [
+    "mất vị giác hoặc khứu giác",
+    "mệt mỏi",
+    "đau họng",
+    "khó thở",
+    "đau đầu"
+  ],
+  "Sốt thương hàn": [
+    "phát ban",
+    "sốt",
+    "tiêu chảy",
+    "đau bụng",
+    "đau cơ",
+    "buồn nôn",
+    "yếu",
+    "đau đầu"
+  ],
+  "Lymphoma": [
+    "sốt",
+    "ra mồ hôi đêm",
+    "rùng mình",
+    "mệt mỏi",
+    "giảm cân không rõ lý do"
+  ],
+  "Táo bón": [
+    "sút cân",
+    "cảm giác nặng nề",
+    "mệt mỏi",
+    "đau bụng",
+    "đầy hơi",
+    "đầy bụng"
+  ],
+  "Ung thư bàng quang": [
+    "đau khi tiểu",
+    "mệt mỏi",
+    "đau lưng dưới",
+    "tiểu ra máu",
+    "tiểu không hết",
+    "buồn nôn"
+  ],
+  "Chlamydia": [
+    "sốt",
+    "mệt mỏi",
+    "đau khi quan hệ",
+    "tiểu buốt",
+    "đau lưng",
+    "ngứa",
+    "đau khi đi tiểu",
+    "ra dịch âm đạo bất thường",
+    "vùng kín sưng",
+    "đau bụng dưới"
+  ],
+  "Rối loạn hình thể cơ thể": [
+    "lo âu",
+    "lo âu về cân nặng",
+    "khó kết nối xã hội",
+    "vấn đề với tự nhận thức cơ thể",
+    "trầm cảm",
+    "rối loạn ăn uống",
+    "thường xuyên so sánh bản thân với người khác",
+    "cảm giác không hài lòng với hình dáng cơ thể",
+    "suy nghĩ quá nhiều về ngoại hình",
+    "cảm giác căng thẳng"
+  ],
+  "Ung thư vú": [
+    "đau khi chạm vào vú",
+    "khối u trong vú",
+    "cảm giác nặng nề",
+    "sưng hạch bạch huyết ở nách",
+    "mệt mỏi",
+    "thay đổi kích thước hoặc hình dạng vú",
+    "chảy dịch từ vú"
+  ],
+  "Rubella": [
+    "phát ban",
+    "đau khớp",
+    "đau cơ",
+    "đau họng",
+    "đau đầu"
+  ],
+  "Xơ vữa động mạch": [
+    "yếu cơ",
+    "cảm giác ngứa",
+    "mệt mỏi",
+    "khó đi lại",
+    "chóng mặt",
+    "vấn đề về thị lực",
+    "rối loạn trí nhớ",
+    "tê",
+    "chuột rút cơ",
+    "mờ mắt"
+  ],
+  "Bệnh phong": [
+    "yếu cơ",
+    "tắc nghẽn mũi",
+    "mất cảm giác",
+    "nerv lớn phì đại",
+    "vấn đề về mắt",
+    "tổn thương da",
+    "da đổi màu",
+    "sưng",
+    "tê"
+  ],
+  "Sản giật": [
+    "đau đầu",
+    "mệt mỏi",
+    "nôn mửa",
+    "co giật",
+    "thở nhanh",
+    "huyết áp cao"
+  ],
+  "Thoát vị": [
+    "đau khi ho hoặc căng thẳng",
+    "cảm giác nặng nề",
+    "đau vùng bụng",
+    "tăng áp lực bụng",
+    "tăng áp lực khi đi vệ sinh",
+    "cảm giác căng tức",
+    "sưng vùng bụng",
+    "khó thở"
+  ],
+  "Sốt rét": [
+    "sốt",
+    "nôn",
+    "rùng mình",
+    "mệt mỏi",
+    "đau cơ",
+    "thở nhanh",
+    "đau đầu"
+  ],
+  "Nấm da": [
+    "mẩn đỏ",
+    "ngứa da",
+    "vết thương lâu lành",
+    "lột da",
+    "tạo vết nứt",
+    "sưng da",
+    "lở loét",
+    "đau khi chạm vào"
+  ],
+  "Mụn": [
+    "da dầu",
+    "mụn bọc",
+    "mụn đầu đen",
+    "ngứa",
+    "vết thâm sau mụn"
+  ],
+  "Sarcoidosis": [
+    "phát ban",
+    "sốt",
+    "đau khớp",
+    "mệt mỏi",
+    "đau bụng",
+    "đau ngực"
+  ],
+  "Ung thư tụy": [
+    "sốt",
+    "mệt mỏi",
+    "đau bụng",
+    "vàng da",
+    "mất cảm giác thèm ăn",
+    "đau lưng",
+    "giảm cân không rõ lý do",
+    "buồn nôn",
+    "khó thở"
+  ],
+  "Mumps": [
+    "sưng tuyến nước bọt",
+    "sốt",
+    "nuốt đau",
+    "mệt mỏi",
+    "chán ăn",
+    "đau nhức",
+    "đau cơ",
+    "sưng tinh hoàn",
+    "đau họng",
+    "đau đầu"
+  ],
+  "Bệnh cơ xơ hóa": [
+    "hạn chế tầm vận động",
+    "tăng huyết áp",
+    "suy giảm khả năng di chuyển",
+    "cứng cơ",
+    "ho khan",
+    "mất cân bằng điện giải",
+    "khó thở"
+  ],
+  "Bệnh Lyme": [
+    "phát ban hình mắt bò",
+    "sốt",
+    "ớn lạnh",
+    "đau khớp",
+    "cứng cổ",
+    "tê tay chân",
+    "đau đầu"
+  ],
+  "Bệnh thận mãn tính": [
+    "nôn",
+    "mệt mỏi",
+    "da khô hoặc ngứa",
+    "buồn nôn",
+    "khó thở",
+    "huyết áp cao"
+  ],
+  "Bệnh Parkinson": [
+    "vấn đề cân bằng",
+    "mất thăng bằng",
+    "thay đổi giọng nói",
+    "đi bộ lê từng bước",
+    "khó đi lại",
+    "cứng cơ",
+    "cúi người",
+    "chuột rút cơ",
+    "chậm vận động",
+    "run"
+  ],
+  "Xơ gan": [
+    "xuất huyết",
+    "mạch máu nổi rõ trên da",
+    "ngứa",
+    "buồn nôn",
+    "bụng sưng to"
+  ],
+  "Hội chứng chân không yên": [
+    "ngứa ran",
+    "buồn bực",
+    "mất ngủ",
+    "cảm giác khó chịu ở chân",
+    "không kiểm soát được chuyển động chân",
+    "đau rát"
+  ],
+  "Chân vận động viên": [
+    "vết nứt da",
+    "vảy da",
+    "sưng và đỏ lòng bàn chân",
+    "mùi hôi chân",
+    "sưng tấy",
+    "da đỏ"
+  ],
+  "Viêm bàng quang": [
+    "tiểu nhiều lần",
+    "ớn lạnh",
+    "sốt",
+    "nước tiểu đục",
+    "tiểu đau",
+    "nước tiểu có mùi khó chịu",
+    "buồn nôn",
+    "đau bụng dưới"
+  ],
+  "Xơ cứng bì": [
+    "cảm giác nóng da",
+    "viêm phổi",
+    "đau khớp",
+    "suy giảm khả năng di chuyển",
+    "mệt mỏi",
+    "đau cơ",
+    "vết thương chậm lành",
+    "suy thận",
+    "khó thở",
+    "da căng và dày"
+  ],
+  "Sởi": [
+    "phát ban",
+    "đốm trắng trong miệng",
+    "sốt",
+    "mệt mỏi",
+    "ho",
+    "chán ăn",
+    "đau cơ",
+    "đau họng",
+    "sổ mũi",
+    "viêm kết mạc"
+  ],
+  "Rối loạn ám ảnh cưỡng chế (OCD)": [
+    "khó kiểm soát cảm xúc",
+    "lặp lại hành động hoặc suy nghĩ",
+    "mất thời gian vào suy nghĩ tiêu cực",
+    "hoặc làm điều gì đó",
+    "mặc cảm tội lỗi",
+    "lo ngại về sự không sạch sẽ",
+    "lo lắng quá mức"
+  ],
+  "Tiểu đường": [
+    "tiểu nhiều lần",
+    "khát nước",
+    "da khô",
+    "nhiễm trùng thường xuyên",
+    "mệt mỏi",
+    "lành vết thương chậm",
+    "tê hoặc ngứa"
+  ],
+  "Loét dạ dày tá tràng": [
+    "tiêu chảy",
+    "chảy máu dạ dày",
+    "chán ăn",
+    "khó tiêu",
+    "đầy hơi",
+    "đau bụng",
+    "cảm giác nóng rát",
+    "nôn mửa"
+  ],
+  "Bệnh Crohn": [
+    "sốt",
+    "máu trong phân",
+    "tiêu chảy",
+    "đau bụng",
+    "vết loét miệng",
+    "chảy máu trực tràng",
+    "giảm cân",
+    "buồn nôn",
+    "mất cảm giác ngon miệng"
+  ],
+  "Thiếu máu": [
+    "nhức đầu",
+    "sút cân",
+    "lạnh tay chân",
+    "da nhợt nhạt",
+    "đau cơ"
+  ],
+  "Sẩy thai": [
+    "ra máu âm đạo",
+    "đau khi quan hệ",
+    "đau bụng",
+    "rối loạn nội tiết",
+    "khó tiêu",
+    "buồn nôn"
+  ],
+  "Sỏi mật": [
+    "sút cân",
+    "chán ăn",
+    "khó tiêu",
+    "nôn mửa",
+    "đau lưng"
+  ],
+  "Xơ nang": [
+    "ho ra đờm đặc",
+    "vấn đề tiêu hóa",
+    "tăng trưởng kém",
+    "khó tăng cân",
+    "nhiễm trùng xoang thường xuyên",
+    "nhiễm trùng phổi thường xuyên",
+    "da có vị mặn",
+    "móng tay hoặc móng chân sưng"
+  ],
+  "Thoái hóa khớp": [
+    "yếu cơ",
+    "đỏ xung quanh khớp",
+    "đau buổi sáng",
+    "giảm khả năng vận động",
+    "lạo xạo trong khớp",
+    "mệt mỏi",
+    "đau dai dẳng",
+    "sưng tấy",
+    "cứng khớp"
+  ],
+  "Bệnh lao": [
+    "sốt",
+    "chán ăn",
+    "đau ngực",
+    "giảm cân",
+    "ra mồ hôi ban đêm",
+    "khó thở",
+    "ho dai dẳng"
+  ],
+  "Ung thư buồng trứng": [
+    "mệt mỏi",
+    "tiểu nhiều hoặc tiểu khó",
+    "đau bụng",
+    "chướng bụng",
+    "đau khi quan hệ",
+    "đau lưng",
+    "buồn nôn",
+    "sút cân không rõ lý do",
+    "chảy máu âm đạo bất thường"
+  ],
+  "Rối loạn căng thẳng sau chấn thương (PTSD)": [
+    "cảm giác tách biệt với mọi người",
+    "đặc biệt dễ giật mình",
+    "lo âu",
+    "mơ lại giấc mơ xấu",
+    "mất ngủ",
+    "trầm cảm",
+    "cảm giác căng thẳng"
+  ],
+  "Nhồi máu cơ tim": [
+    "mệt mỏi",
+    "đau cánh tay",
+    "chóng mặt",
+    "đau ngực",
+    "buồn nôn",
+    "chứng khó tiêu",
+    "khó thở",
+    "ra mồ hôi"
+  ],
+  "Ung thư": [
+    "máu trong phân",
+    "ho kéo dài",
+    "mệt mỏi",
+    "cục u",
+    "giảm cân không rõ lý do",
+    "đau",
+    "thay đổi thói quen đại tiện hoặc tiểu tiện",
+    "khó nuốt",
+    "khó thở",
+    "thay đổi da"
+  ],
+  "Suy tim": [
+    "khó tập thể dục",
+    "thở khò khè",
+    "mệt mỏi",
+    "nhịp tim không đều",
+    "sưng phù",
+    "khó thở",
+    "tiểu thường xuyên",
+    "tăng cân"
+  ],
+  "Trào ngược dạ dày thực quản": [
+    "khó ngủ",
+    "chảy máu thực quản",
+    "ho khan",
+    "đau họng",
+    "khó nuốt",
+    "khó thở"
+  ],
+  "Ung thư nội mạc tử cung": [
+    "ra máu âm đạo bất thường",
+    "sút cân",
+    "mệt mỏi",
+    "khó tiêu",
+    "vàng da",
+    "đau lưng",
+    "tiểu thường xuyên",
+    "đau bụng dưới"
+  ],
+  "Virus Zika": [
+    "phát ban",
+    "sốt",
+    "mệt mỏi",
+    "đau bụng",
+    "đau cơ",
+    "sưng khớp",
+    "buồn nôn",
+    "viêm kết mạc",
+    "đau đầu"
+  ],
+  "Bệnh Alzheimer": [
+    "khó giải quyết vấn đề",
+    "lạc hướng",
+    "khó lập kế hoạch",
+    "mất đồ đạc",
+    "mất trí nhớ"
+  ],
+  "Viêm loét đại tràng": [
+    "sốt",
+    "đau trực tràng",
+    "mệt mỏi",
+    "đau bụng",
+    "mũi trong phân",
+    "tăng tần suất đi vệ sinh",
+    "thiếu máu",
+    "giảm cân",
+    "buồn nôn",
+    "tiêu chảy có máu"
+  ],
+  "Ung thư tuyến giáp": [
+    "đau cổ",
+    "sút cân",
+    "da khô",
+    "thay đổi giọng nói",
+    "mệt mỏi",
+    "ho khan",
+    "khó nuốt",
+    "khó thở"
+  ],
+  "Viêm tụy mạn tính": [
+    "sụt cân",
+    "suy dinh dưỡng",
+    "nôn",
+    "tiêu chảy",
+    "đầy hơi",
+    "đau lưng",
+    "buồn nôn",
+    "đau bụng dai dẳng",
+    "mỡ trong phân"
+  ],
+  "Lo âu": [
+    "lo lắng thái quá",
+    "mệt mỏi",
+    "run rẩy",
+    "hồi hộp",
+    "đau ngực",
+    "cảm giác bất an",
+    "khó thở"
+  ],
+  "Ung thư tuyến tiền liệt": [
+    "máu trong nước tiểu",
+    "mệt mỏi",
+    "rối loạn cương dương",
+    "đau vùng xương chậu",
+    "đi tiểu thường xuyên, đặc biệt vào ban đêm",
+    "buồn nôn",
+    "đau khi đi tiểu",
+    "đau vùng lưng dưới",
+    "sút cân nhanh",
+    "tiểu khó"
+  ],
+  "Cường giáp": [
+    "sụt cân",
+    "khó ngủ",
+    "khó chịu với nóng",
+    "đổ mồ hôi nhiều",
+    "mệt mỏi",
+    "run tay",
+    "đau ngực",
+    "rụng tóc",
+    "kích động",
+    "nhịp tim nhanh"
+  ],
+  "Thiếu máu hồng cầu hình liềm": [
+    "mệt mỏi",
+    "đau bụng",
+    "vàng da",
+    "đau xương khớp",
+    "buồn nôn"
+  ],
+  "Psoriasis": [
+    "vảy da",
+    "mẩn đỏ",
+    "da khô",
+    "mệt mỏi",
+    "ngứa",
+    "tăng mảng vảy"
+  ],
+  "Gonorrhea": [
+    "sốt",
+    "chảy mủ từ dương vật",
+    "ra dịch âm đạo",
+    "ngứa",
+    "đau khi đi tiểu",
+    "đau bụng dưới"
+  ],
+  "Viêm não": [
+    "mệt mỏi",
+    "chóng mặt",
+    "nôn mửa",
+    "co giật",
+    "sốt cao",
+    "mất cân bằng",
+    "cứng cổ",
+    "suy giảm nhận thức",
+    "đau đầu"
+  ],
+  "Viêm ruột thừa": [
+    "sốt",
+    "đau vùng bụng dưới bên phải",
+    "mệt mỏi",
+    "đau bụng",
+    "nôn mửa",
+    "khó tiêu",
+    "đau khi ho hoặc di chuyển",
+    "tiêu chảy hoặc táo bón",
+    "buồn nôn",
+    "cảm giác no bụng"
+  ],
+  "Rối loạn lưỡng cực": [
+    "khó khăn trong kiểm soát cảm xúc",
+    "cảm giác cực kỳ vui vẻ",
+    "mất ngủ",
+    "dễ nổi giận",
+    "suy nghĩ nhanh",
+    "cảm giác bồn chồn"
+  ],
+  "Lupus ban đỏ hệ thống": [
+    "sốt",
+    "da sạm",
+    "viêm màng phổi",
+    "đau ngực",
+    "phát ban cánh bướm",
+    "khó thở"
+  ],
+  "Virus papilloma người (HPV)": [
+    "phát ban",
+    "mẩn đỏ",
+    "sút cân",
+    "mệt mỏi",
+    "đau khi quan hệ",
+    "sưng nhẹ",
+    "mụn cóc sinh dục",
+    "đau bụng",
+    "ngứa"
+  ],
+  "Viêm khớp dạng thấp": [
+    "khó ngủ",
+    "cứng khớp buổi sáng",
+    "đau khớp",
+    "chán ăn",
+    "sưng khớp",
+    "trầm cảm",
+    "giảm cân",
+    "tê"
+  ],
+  "Thiếu sắt": [
+    "chân tay lạnh",
+    "mệt mỏi",
+    "da nhợt nhạt",
+    "chóng mặt",
+    "rụng tóc",
+    "tim đập nhanh",
+    "khó tập trung"
+  ],
+  "Ngộ độc thực phẩm": [
+    "sút cân",
+    "tiêu chảy",
+    "mệt mỏi",
+    "đau bụng",
+    "nôn mửa",
+    "đầy hơi",
+    "đau đầu"
+  ],
+  "Bulimia": [
+    "thay đổi trọng lượng cơ thể",
+    "lo âu về hình dáng cơ thể",
+    "nôn mửa",
+    "trầm cảm",
+    "ăn uống vô độ"
+  ],
+  "Bệnh Celiac": [
+    "sang thương da",
+    "sút cân",
+    "mệt mỏi",
+    "khó tiêu",
+    "đầy hơi"
+  ],
+  "Bệnh Behçet": [
+    "phát ban",
+    "loét sinh dục",
+    "lở loét miệng",
+    "mệt mỏi",
+    "đau cơ",
+    "sưng khớp",
+    "giảm trí nhớ"
+  ],
+  "Thủy đậu": [
+    "sốt",
+    "rùng mình",
+    "mệt mỏi",
+    "nốt phỏng",
+    "đau họng",
+    "đau đầu"
+  ],
+  "Bệnh gan": [
+    "sưng chân",
+    "đau bụng",
+    "vàng da",
+    "buồn nôn",
+    "nước tiểu màu đậm"
+  ],
+  "Tiêu chảy": [
+    "khó chịu ở bụng",
+    "sốt",
+    "mất nước",
+    "khó chịu",
+    "mệt mỏi",
+    "đau khi đi tiêu",
+    "tiêu chảy kéo dài"
+  ],
+  "Viêm phổi": [
+    "sốt",
+    "nôn",
+    "ho",
+    "mệt mỏi",
+    "mơ hồ",
+    "buồn nôn"
+  ],
+  "HIV/AIDS": [
+    "sốt",
+    "ho khô kéo dài",
+    "tiêu chảy",
+    "mệt mỏi",
+    "ra mồ hôi ban đêm",
+    "buồn nôn",
+    "phát ban da",
+    "đau đầu"
+  ],
+  "Viêm gan": [
+    "sốt",
+    "đau khớp",
+    "mệt mỏi",
+    "đau bụng",
+    "chán ăn",
+    "vàng da",
+    "đau cơ",
+    "nước tiểu sẫm màu",
+    "phân nhạt màu",
+    "buồn nôn"
+  ],
+  "Tiền sản giật": [
+    "sốt",
+    "đau bụng trên",
+    "mệt mỏi",
+    "cao huyết áp",
+    "nôn mửa",
+    "sưng chân tay",
+    "mắt nhìn mờ",
+    "buồn nôn",
+    "khó thở",
+    "đau đầu"
+  ]
+}
