@@ -1,22 +1,44 @@
+# ======================
+# Web framework
+# ======================
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 
+# ======================
+# Database / ORM
+# ======================
 sqlalchemy==2.0.23
 psycopg2-binary==2.9.9
+alembic==1.12.1
 
+# ======================
+# Auth / Security
+# ======================
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 python-multipart==0.0.6
 
-pydantic==2.5.0
-pydantic-settings==2.1.0
-alembic==1.12.1
-email-validator==2.3.0
-requests==2.31.0
-openai>=1.6.1,<2.0.0
+# ======================
+# Email / Validation
+# ======================
+email-validator==2.3.0        # cần >=2.3.0 để tương thích fastapi-mail 1.6.1
 fastapi-mail==1.6.1
 
-# --- AI / RAG (KHÓA VERSION) ---
+# ======================
+# Pydantic
+# ======================
+pydantic==2.12.5              # version fix conflict với fastapi-mail & fastapi
+pydantic-settings==2.12.5
+
+# ======================
+# HTTP Requests / OpenAI
+# ======================
+requests==2.31.0
+openai>=1.6.1,<2.0.0          # tương thích OpenAI client mới
+
+# ======================
+# AI / RAG (vector search)
+# ======================
 numpy==1.26.4
 torch==2.1.2
 sentence-transformers==2.2.2
