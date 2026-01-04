@@ -5,47 +5,40 @@ from sentence_transformers import SentenceTransformer
 from openai import OpenAI
 import os
 
-# ======================
+# ----------------------------
 # OpenAI client
-# ======================
+# ----------------------------
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
     raise RuntimeError("Missing OPENAI_API_KEY environment variable!")
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# ======================
-# Router
-# ======================
+# ----------------------------
 router = APIRouter(prefix="/api/chatbot", tags=["Chatbot"])
 
-# ======================
-# LAZY GLOBAL VARIABLES
-# ======================
+# ----------------------------
+# Lazy globals
+# ----------------------------
 chroma_client = None
 collection = None
 embed_model = None
 
-# ======================
-# INIT FUNCTION
-# ======================
+# ----------------------------
+# Init RAG
+# ----------------------------
 def init_rag():
     global chroma_client, collection, embed_model
-
     if chroma_client is None:
-        chroma_client = chromadb.PersistentClient(
-            path="app/AI/vector_db"
-        )
-
+        chroma_client = chromadb.PersistentClient(path="app/AI/vector_db")
     if collection is None:
         collection = chroma_client.get_collection("medical_rag")
-
     if embed_model is None:
         embed_model = SentenceTransformer("BAAI/bge-small-en")
 
-# ======================
-# PROMPT
-# ======================
+# ----------------------------
+# System prompt
+# ----------------------------
 SYSTEM_PROMPT = """
 Bạn là trợ lý y tế an toàn, chỉ hỗ trợ các vấn đề liên quan đến sức khỏe và y tế.
 
@@ -62,39 +55,27 @@ QUY TẮC:
 class UserMessage(BaseModel):
     message: str
 
-# ======================
-# RAG RETRIEVAL
-# ======================
+# ----------------------------
+# RAG retrieval
+# ----------------------------
 def retrieve_context(query: str):
-    init_rag()  # 🔥 LOAD TẠI ĐÂY
-
+    init_rag()
     query_vec = embed_model.encode([query]).tolist()
-
-    result = collection.query(
-        query_embeddings=query_vec,
-        n_results=3
-    )
-
+    result = collection.query(query_embeddings=query_vec, n_results=3)
     docs = result.get("documents", [[]])[0]
     return "\n\n".join(docs)
 
-# ======================
-# API
-# ======================
+# ----------------------------
+# Chatbot API
+# ----------------------------
 @router.post("")
 async def chatbot(msg: UserMessage):
     user_input = msg.message
-
-    # 🔹 Lấy dữ liệu RAG
     context = retrieve_context(user_input)
 
-    # 🔹 Nếu RAG rỗng
     if context.strip() == "":
-        return {
-            "reply": "Tôi chỉ hỗ trợ các câu hỏi liên quan đến sức khỏe và y tế."
-        }
+        return {"reply": "Tôi chỉ hỗ trợ các câu hỏi liên quan đến sức khỏe và y tế."}
 
-    # 🔹 Kết hợp SYSTEM_PROMPT + context + câu hỏi
     prompt = f"""
 {SYSTEM_PROMPT}
 
@@ -105,7 +86,6 @@ Câu hỏi:
 {user_input}
 """
 
-    # 🔹 Gọi OpenAI API
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
