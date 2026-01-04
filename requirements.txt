@@ -12,3 +12,5 @@ email-validator==2.2.0
 requests==2.31.0
 chromadb==0.4.22
 numpy==1.26.4
+sentence-transformers==2.2.2
+torch==2.1.2
