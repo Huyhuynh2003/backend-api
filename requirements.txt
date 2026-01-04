@@ -21,20 +21,20 @@ python-multipart==0.0.6
 # ======================
 # Email / Validation
 # ======================
-email-validator==2.3.0        # cần >=2.3.0 để tương thích fastapi-mail 1.6.1
+email-validator==2.3.0
 fastapi-mail==1.6.1
 
 # ======================
 # Pydantic
 # ======================
-pydantic==2.12.5              # version fix conflict với fastapi-mail & fastapi
-pydantic-settings==2.12.5
+pydantic==2.12.5
+pydantic-settings==2.12.0      # <- version có thật trên PyPI
 
 # ======================
 # HTTP Requests / OpenAI
 # ======================
 requests==2.31.0
-openai>=1.6.1,<2.0.0          # tương thích OpenAI client mới
+openai>=1.6.1,<2.0.0
 
 # ======================
 # AI / RAG (vector search)
