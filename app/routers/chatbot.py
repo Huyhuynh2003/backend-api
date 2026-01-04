@@ -4,15 +4,20 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 from openai import OpenAI
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
+# ======================
+# OpenAI client
+# ======================
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+if not OPENAI_API_KEY:
+    raise RuntimeError("Missing OPENAI_API_KEY environment variable!")
 
-# OpenAI client (nhẹ, để ngoài ok)
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=OPENAI_API_KEY)
 
+# ======================
+# Router
+# ======================
 router = APIRouter(prefix="/api/chatbot", tags=["Chatbot"])
-
 
 # ======================
 # LAZY GLOBAL VARIABLES
@@ -20,7 +25,6 @@ router = APIRouter(prefix="/api/chatbot", tags=["Chatbot"])
 chroma_client = None
 collection = None
 embed_model = None
-
 
 # ======================
 # INIT FUNCTION
@@ -38,7 +42,6 @@ def init_rag():
 
     if embed_model is None:
         embed_model = SentenceTransformer("BAAI/bge-small-en")
-
 
 # ======================
 # PROMPT
@@ -59,7 +62,6 @@ QUY TẮC:
 class UserMessage(BaseModel):
     message: str
 
-
 # ======================
 # RAG RETRIEVAL
 # ======================
@@ -76,7 +78,6 @@ def retrieve_context(query: str):
     docs = result.get("documents", [[]])[0]
     return "\n\n".join(docs)
 
-
 # ======================
 # API
 # ======================
@@ -84,13 +85,16 @@ def retrieve_context(query: str):
 async def chatbot(msg: UserMessage):
     user_input = msg.message
 
+    # 🔹 Lấy dữ liệu RAG
     context = retrieve_context(user_input)
 
+    # 🔹 Nếu RAG rỗng
     if context.strip() == "":
         return {
             "reply": "Tôi chỉ hỗ trợ các câu hỏi liên quan đến sức khỏe và y tế."
         }
 
+    # 🔹 Kết hợp SYSTEM_PROMPT + context + câu hỏi
     prompt = f"""
 {SYSTEM_PROMPT}
 
@@ -101,6 +105,7 @@ Câu hỏi:
 {user_input}
 """
 
+    # 🔹 Gọi OpenAI API
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
