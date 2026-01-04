@@ -43,3 +43,11 @@ def health_check():
 frontend_dist = Path(__file__).parent.parent.parent / "frontend" / "dist"
 if frontend_dist.exists():
     app.mount("/", StaticFiles(directory=str(frontend_dist), html=True), name="frontend")
+
+# ----------------------------
+# Run uvicorn (Render)
+# ----------------------------
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))  # Render sẽ set PORT
+    uvicorn.run("app.main:app", host="0.0.0.0", port=port)
