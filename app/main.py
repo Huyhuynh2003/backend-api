@@ -4,10 +4,10 @@ from fastapi.staticfiles import StaticFiles
 from pathlib import Path
 import os
 
-from .database import engine, Base
-from .routers import auth, doctors, hospitals
-from app.routers import chatbot, users, appointments, profile
+from app.database import engine, Base
+from app.routers import auth, doctors, hospitals, chatbot, users, appointments, profile
 from app.AI import predict_disease
+
 
 # ----------------------------
 # Database
