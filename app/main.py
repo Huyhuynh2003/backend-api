@@ -8,16 +8,14 @@ from app.database import engine, Base
 from app.routers import auth, doctors, hospitals, chatbot, users, appointments, profile
 from app.AI import predict_disease
 
-
-# ----------------------------
-# Database
-# ----------------------------
-Base.metadata.create_all(bind=engine)
-
 # ----------------------------
 # FastAPI app
 # ----------------------------
 app = FastAPI(title="Smart Healthcare API", version="1.0.0")
+
+@app.on_event("startup")
+def on_startup():
+    Base.metadata.create_all(bind=engine)
 
 # ----------------------------
 # CORS
